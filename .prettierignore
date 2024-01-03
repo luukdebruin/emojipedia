@@ -1,0 +1,15 @@
+.yarn
+.yarnrc.yml
+node_modules
+dist
+package-lock.json
+.pnp.js
+projects/web/assets
+projects/web/locales
+bundle.js
+lib
+packages/ui/storybook-static
+projects/wander/public/icons.json
+**/.cache/**
+**/build/**
+**/tools/*.json
